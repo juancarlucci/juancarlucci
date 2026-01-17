@@ -1,16 +1,33 @@
-## Hi there 👋
+# Juan Carlos Collins
 
-<!--
-**juancarlucci/juancarlucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Learning Designer | UX Researcher | Developer Experience**
 
-Here are some ideas to get you started:
+I design learning experiences that bridge technical complexity and human understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Recent Work
+
+- 🏥 **[Healthcare SaaS UX Research](https://github.com/juancarlucci/ux-research-healthcare-saas)** - Systematic observation audit identifying trust-critical onboarding gaps in healthcare platform. Research led to prioritized product improvements.
+- 💻 **[Portfolio Projects](https://juancarlucci.github.io/react-portfolio/)** - Frontend engineering and data visualization work
+
+## 🎯 Focus Areas
+
+**Learning Design & Research**
+- User research methodologies
+- Onboarding flow optimization  
+- Technical documentation
+- Developer experience (DevEx)
+
+**Technical Skills**
+- Frontend: React, Next.js, Vue.js, TypeScript
+- Data Visualization: D3.js, Three.js, Canvas
+- Tools: GraphQL, Git, Figma, Storybook
+
+## 📫 Connect
+
+- [LinkedIn](https://linkedin.com/in/juancarloscollins)
+- [Email](mailto:juancarloscollins@gmail.com)
+- [Portfolio](https://juancarlucci.github.io/react-portfolio/)
+
+---
+
+*Most Learning Designers don't code. Most engineers don't teach. I do both.*
