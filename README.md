@@ -7,7 +7,7 @@ I design learning experiences that bridge technical complexity and human underst
 ## 🔬 Recent Work
 
 - 🏥 **[Healthcare SaaS UX Research](https://github.com/juancarlucci/ux-research-healthcare-saas)** - Systematic observation audit identifying trust-critical onboarding gaps in healthcare platform. Research led to prioritized product improvements.
-- 💻 **[Portfolio Projects](https://juancarlucci.github.io/react-portfolio/)** - Frontend engineering and data visualization work
+- 💻 **[Portfolio Projects](https://www.juancarloscollins.com/)** - Frontend engineering and data visualization work
 
 ## 🎯 Focus Areas
 
@@ -26,7 +26,7 @@ I design learning experiences that bridge technical complexity and human underst
 
 - [LinkedIn](https://linkedin.com/in/juancarloscollins)
 - [Email](mailto:juancarloscollins@gmail.com)
-- [Portfolio](https://juancarlucci.github.io/react-portfolio/)
+- [Portfolio](https://www.juancarloscollins.com/)
 
 ---
 
