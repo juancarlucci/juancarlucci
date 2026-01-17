@@ -25,7 +25,6 @@ I design learning experiences that bridge technical complexity and human underst
 ## 📫 Connect
 
 - [LinkedIn](https://linkedin.com/in/juancarloscollins)
-- [Email](mailto:juancarloscollins@gmail.com)
 - [Portfolio](https://www.juancarloscollins.com/)
 
 ---
