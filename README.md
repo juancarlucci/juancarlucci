@@ -1,8 +1,9 @@
 # Juan Carlos Collins
 
-**Learning Designer | UX Researcher | Developer Experience**
+**Learning Experience Architect | Where Code Meets Pedagogy**
 
-I design learning experiences that bridge technical complexity and human understanding.
+Helping products teach themselves through UX Research, DevEx, and Frontend Engineering.
+
 
 ## 🔬 Recent Work
 
