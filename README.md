@@ -1,27 +1,29 @@
 # Juan Carlos Collins
 
-**Learning Experience Architect | Where Code Meets Pedagogy**
+# Frontend Engineer | React • TypeScript • Next.js
 
-Helping products teach themselves through UX Research, DevEx, and Frontend Engineering.
+Building scalable web applications with 7 years of professional experience. Former educator bringing unique perspective on user experience and interface design.
 
+## 🚀 Recent Work
 
-## 🔬 Recent Work
+**HealthFlow Friction Visualizer** - Interactive data visualization tool  
+Built with Next.js 14, TypeScript, React, shadcn/ui, Tailwind CSS  
+[Live Demo](https://healthflow-friction-visualizer.vercel.app) | [Code](https://github.com/juancarlucci/healthflow-friction-visualizer)
 
-- 🏥 **[Healthcare SaaS UX Research](https://github.com/juancarlucci/ux-research-healthcare-saas)** - Systematic observation audit identifying trust-critical onboarding gaps in healthcare platform. Research led to prioritized product improvements.
-- 💻 **[Portfolio Projects](https://www.juancarloscollins.com/)** - Frontend engineering and data visualization work
+**Portfolio Projects** - Frontend engineering and data visualization  
+React, Vue.js, D3.js, Three.js applications
 
-## 🎯 Focus Areas
+## 💻 Technical Skills
 
-**Learning Design & Research**
-- User research methodologies
-- Onboarding flow optimization  
-- Technical documentation
-- Developer experience (DevEx)
+**Frontend:** React, Next.js, Vue.js, TypeScript, JavaScript (ES6+)  
+**Styling:** Tailwind CSS, SASS/SCSS, CSS-in-JS, Responsive Design  
+**Data Visualization:** D3.js, Three.js, Leaflet.js, Canvas  
+**Tools:** Git, GraphQL, REST APIs, Storybook, Figma  
+**Performance:** Code-splitting, lazy loading, accessibility (WCAG)
 
-**Technical Skills**
-- Frontend: React, Next.js, Vue.js, TypeScript
-- Data Visualization: D3.js, Three.js, Canvas
-- Tools: GraphQL, Git, Figma, Storybook
+## 🎯 What Makes Me Different
+
+15 years teaching experience means I build interfaces that reduce cognitive load and accelerate user understanding. Every component should make someone feel more capable, not less.
 
 ## 📫 Connect
 
